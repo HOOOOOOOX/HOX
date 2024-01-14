@@ -1,9 +1,3 @@
-# tarffic signal tedection
-A simple project for driving a vehicle based on tht traffic signal
-
-the project is not fullly conpleted and it will be update in the future
-
-
 Extensible framework for traffic signal detection
 ==
 
